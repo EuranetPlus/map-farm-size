@@ -1,13 +1,13 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Unde sunt cele mai mari ferme din UE?",
+  "subtitle": "În 2023, 3,76% dintre fermele din UE utilizau cel puțin 100 de hectare de teren agricol. Cea mai mare pondere a fost înregistrată în Luxemburg și Franța, în timp ce Grecia a înregistrat cea mai mică pondere raportată.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "SAU este prescurtarea de la „Suprafața Agricolă Utilizată”. Fiecare procent se calculează prin împărțirea numărului de ferme care utilizează cel puțin 100 de hectare la numărul total de ferme din aceeași țară. Sunt incluse fermele care utilizează exact 100 de hectare. Nu există nicio cifră disponibilă pentru Malta.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_MT": "Nu există cifre disponibile pentru fermele cu cel puțin 100 de hectare în 2023.",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "de ferme din această țară cu peste 100 ha SAU",
   "tooltipExtraInfoLabel": "Click aici"
 }
