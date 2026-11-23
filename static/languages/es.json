@@ -1,13 +1,13 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Dónde se encuentran las mayores explotaciones agrícolas de la UE?",
+  "subtitle": "En 2023, el 3,76 % de las explotaciones agrícolas de la UE utilizaban al menos 100 hectáreas de tierra agrícola. El porcentaje más alto se registró en Luxemburgo y Francia, mientras que Grecia presentó el porcentaje más bajo.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "UAA significa «Superficie Agrícola Utilizada». Cada porcentaje se calcula dividiendo el número de explotaciones agrícolas que utilizan al menos 100 hectáreas entre el número total de explotaciones agrícolas en el mismo país. Se incluyen las explotaciones que utilizan exactamente 100 hectáreas. No se dispone de datos para Malta.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
+  "extraInfo_MT": "No se dispone de datos sobre explotaciones agrícolas con al menos 100 hectáreas en 2023.",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "de granjas en este país con más de 100 ha UAA",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
