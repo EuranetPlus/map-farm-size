@@ -1,13 +1,13 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Missä sijaitsevat EU:n suurimmat maatilat?",
+  "subtitle": "Vuonna 2023 3,76 % EU:n maatiloista käytti vähintään 100 hehtaaria maatalousmaata. Osuus oli suurin Luxemburgissa ja Ranskassa, kun taas Kreikassa raportoitu osuus oli pienin.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "KMM on lyhenne sanoista 'käytetystä maatalousmaasta'. Jokainen prosenttiosuus lasketaan jakamalla vähintään 100 hehtaaria käyttävien tilojen lukumäärä saman maan tilojen kokonaismäärällä. Mukana ovat myös täsmälleen 100 hehtaaria käyttävät tilat. Maltan osalta lukua ei ole saatavilla.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_MT": "Vähintään 100 hehtaarin tiloista ei ole saatavilla lukua vuonna 2023.",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "yli 100 hehtaarin KMM-tiloista tässä maassa",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
