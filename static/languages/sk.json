@@ -1,13 +1,13 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde sú najväčšie farmy v EÚ?",
+  "subtitle": "V roku 2023 využívalo 3,76 % fariem v EÚ aspoň 100 hektárov poľnohospodárskej pôdy. Najvyšší podiel bol v Luxembursku a Francúzsku, zatiaľ čo Grécko zaznamenalo najnižší hlásený podiel.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "VPP je skratka pre „využívanú poľnohospodársku plochu“. Každé percento sa vypočíta vydelením počtu fariem využívajúcich aspoň 100 hektárov celkovým počtom fariem v tej istej krajine. Zahrnuté sú aj farmy využívajúce presne 100 hektárov. Za Maltu nie sú k dispozícii žiadne údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_MT": "Pre farmy s rozlohou najmenej 100 hektárov v roku 2023 nie sú k dispozícii žiadne údaje.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "fariem v tejto krajine s viac ako 100 ha využívanej poľnohospodárskej pôdy",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
