@@ -1,13 +1,13 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo befinden sich die größten landwirtschaftlichen Betriebe in der EU?",
+  "subtitle": "Im Jahr 2023 nutzten 3,76 % der landwirtschaftlichen Betriebe in der EU mindestens 100 Hektar landwirtschaftliche Fläche. Der Anteil war in Luxemburg und Frankreich am höchsten, während Griechenland den niedrigsten gemeldeten Anteil aufwies.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "UAA steht für „Genutzte landwirtschaftliche Fläche“. Jeder Prozentwert wird berechnet, indem die Anzahl der Betriebe mit mindestens 100 Hektar durch die Gesamtzahl der Betriebe im jeweiligen Land geteilt wird. Betriebe mit genau 100 Hektar werden mit einbezogen. Für Malta liegen keine Daten vor.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_MT": "Für landwirtschaftliche Betriebe mit mindestens 100 Hektar im Jahr 2023 liegen keine Zahlen vor.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "von landwirtschaftlichen Betrieben in diesem Land mit über 100 ha UAA",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
