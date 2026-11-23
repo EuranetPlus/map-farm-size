@@ -1,13 +1,13 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Waar bevinden zich de grootste landbouwbedrijven in de EU?",
+  "subtitle": "In 2023 gebruikte 3,76% van de landbouwbedrijven in de EU minstens 100 hectare landbouwgrond. Het aandeel was het hoogst in Luxemburg en Frankrijk, terwijl Griekenland het laagste gerapporteerde aandeel had.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "UAA staat voor 'Utilised Agricultural Area' (benut landbouwoppervlak). Elk percentage wordt berekend door het aantal bedrijven dat minstens 100 hectare gebruikt te delen door het totale aantal bedrijven in hetzelfde land. Bedrijven die precies 100 hectare gebruiken, worden meegerekend. Er zijn geen cijfers beschikbaar voor Malta.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_MT": "Er zijn geen cijfers beschikbaar voor boerderijen met minstens 100 hectare in 2023.",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van boerderijen in dit land met meer dan 100 ha UAA",
   "tooltipExtraInfoLabel": "Klik hier"
 }
