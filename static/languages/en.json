@@ -1,13 +1,13 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Where are the biggest farms in the EU?",
+  "subtitle": "In 2023, 3.76% of EU farms used at least 100 hectares of agricultural land. The share was highest in Luxembourg and France while Greece posted the lowest reported share.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "UAA stands for 'Utilised Agricultural Area'. Each percentage is calculated by dividing the number of farms using at least 100 hectares by the total number of farms in the same country. Farms using exactly 100 hectares are included. No figure is available for Malta.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_MT": "No figure is available for farms with at least 100 hectares in 2023.",
   "legend1": "No data available",
+  "customUnitLabel": "of farms in this country with over 100 ha UAA",
   "tooltipExtraInfoLabel": "Click here"
 }
