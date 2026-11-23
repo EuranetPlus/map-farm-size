@@ -1,13 +1,13 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kje so največje kmetije v EU?",
+  "subtitle": "Leta 2023 je 3,76 % kmetij v EU uporabljalo vsaj 100 hektarjev kmetijskih zemljišč. Delež je bil najvišji v Luksemburgu in Franciji, najnižji pa v Grčiji.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "KZU je kratica za »izkoriščena kmetijska zemljišča«. Vsak odstotek se izračuna tako, da se število kmetij, ki uporabljajo vsaj 100 hektarjev, deli s skupnim številom kmetij v isti državi. Vključene so kmetije, ki uporabljajo natanko 100 hektarjev. Za Malto ni na voljo nobenih podatkov.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_MT": "Za kmetije z vsaj 100 hektarji v letu 2023 ni na voljo nobenih podatkov.",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "kmetije v tej državi z več kot 100 ha kmetijskih zemljišč",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
