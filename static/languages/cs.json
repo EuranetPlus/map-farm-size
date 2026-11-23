@@ -1,13 +1,13 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kde jsou největší farmy v EU?",
+  "subtitle": "V roce 2023 využívalo 3,76 % zemědělských podniků v EU alespoň 100 hektarů zemědělské půdy. Nejvyšší podíl byl v Lucembursku a Francii, zatímco nejnižší podíl vykázalo Řecko.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "ZVP je zkratka pro „využívanou zemědělskou plochu“. Každé procento se vypočítá vydělením počtu farem využívajících alespoň 100 hektarů celkovým počtem farem v dané zemi. Zahrnuty jsou i farmy využívající přesně 100 hektarů. Pro Maltu nejsou k dispozici žádné údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "extraInfo_MT": "Pro farmy s alespoň 100 hektary v roce 2023 nejsou k dispozici žádné údaje.",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "farem v této zemi s více než 100 ha využíváné zemědělské plochy",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
