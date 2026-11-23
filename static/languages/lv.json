@@ -1,13 +1,13 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur atrodas lielākās saimniecības ES?",
+  "subtitle": "2023. gadā 3,76 % ES saimniecību izmantoja vismaz 100 hektārus lauksaimniecības zemes. Visaugstākā daļa bija Luksemburgā un Francijā, savukārt Grieķijā bija reģistrēta viszemākā daļa.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "LIZ apzīmē 'izmantoto lauksaimniecības zemi'. Katru procentuālo daļu aprēķina, dalot to saimniecību skaitu, kuras izmanto vismaz 100 hektārus, ar kopējo saimniecību skaitu tajā pašā valstī. Iekļautas saimniecības, kuras izmanto tieši 100 hektārus. Par Maltu dati nav pieejami.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_MT": "Dati par saimniecībām ar vismaz 100 hektāriem 2023. gadā nav pieejami.",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "saimniecību šajā valstī ar vairāk nekā 100 ha LIZ",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
