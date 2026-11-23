@@ -1,13 +1,13 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur yra didžiausi ūkiai ES?",
+  "subtitle": "2023 m. 3,76 % ES ūkių naudojo bent 100 hektarų žemės ūkio paskirties žemės. Didžiausia dalis buvo Liuksemburge ir Prancūzijoje, o mažiausia – Graikijoje.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "ŽŪN reiškia „naudojamą žemės ūkio paskirties žemę“. Kiekvienas procentas apskaičiuojamas ūkių, naudojančių bent 100 hektarų, skaičių padalijus iš bendro ūkių skaičiaus toje pačioje šalyje. Įtraukiami ūkiai, naudojantys lygiai 100 hektarų. Maltos duomenų nėra.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_MT": "2023 m. duomenų apie ūkius, turinčius bent 100 hektarų, nėra.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "šios šalies ūkių, turinčių daugiau nei 100 ha ŽŪN",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
