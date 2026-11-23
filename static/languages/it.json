@@ -1,13 +1,13 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Dove si trovano le aziende agricole più grandi dell'UE?",
+  "subtitle": "Nel 2023, il 3,76% delle aziende agricole dell'UE utilizzava almeno 100 ettari di terreno agricolo. La percentuale più alta si registrava in Lussemburgo e Francia, mentre la Grecia presentava la percentuale più bassa.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "UAA sta per 'Superficie Agricola Utilizzata'. Ogni percentuale viene calcolata dividendo il numero di aziende agricole che utilizzano almeno 100 ettari per il numero totale di aziende agricole nello stesso paese. Sono incluse anche le aziende che utilizzano esattamente 100 ettari. Non sono disponibili dati per Malta.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_MT": "Non sono disponibili dati per le aziende agricole con almeno 100 ettari nel 2023.",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "di aziende agricole in questo paese con oltre 100 ettari di superficie agricola edificabile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
