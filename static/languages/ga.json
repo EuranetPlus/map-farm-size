@@ -1,13 +1,13 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cá bhfuil na feirmeacha is mó san AE?",
+  "subtitle": "Sa bhliain 2023, bhain 3.76% de fheirmeacha an AE úsáid as 100 heicteár ar a laghad de thalamh talmhaíochta. Bhí an sciar is airde i Lucsamburg agus sa Fhrainc agus bhí an sciar is ísle tuairiscithe sa Ghréig.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Seasann UAA do 'Limistéar Talmhaíochta Úsáidte'. Ríomhtar gach céatadán trí líon na bhfeirmeacha a úsáideann 100 heicteár ar a laghad a roinnt ar líon iomlán na bhfeirmeacha sa tír chéanna. Cuirtear feirmeacha a úsáideann 100 heicteár go díreach san áireamh. Níl aon fhigiúr ar fáil do Mhálta.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_MT": "Níl aon fhigiúr ar fáil do fheirmeacha a bhfuil 100 heicteár ar a laghad acu in 2023.",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "de fheirmeacha sa tír seo a bhfuil os cionn 100 ha UAA acu",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
