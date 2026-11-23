@@ -1,13 +1,13 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor er de største landbrug i EU?",
+  "subtitle": "I 2023 brugte 3,76 % af EU's landbrug mindst 100 hektar landbrugsjord. Andelen var højest i Luxembourg og Frankrig, mens Grækenland havde den laveste rapporterede andel.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "UAA står for 'Utilised Agricultural Area'. Hver procentdel beregnes ved at dividere antallet af landbrug, der bruger mindst 100 hektar, med det samlede antal landbrug i samme land. Landbrug, der bruger præcis 100 hektar, er inkluderet. Der findes ikke noget tal for Malta.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "extraInfo_MT": "Der findes ikke tal for landbrug med mindst 100 hektar i 2023.",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "af landbrug i dette land med over 100 ha ULA",
   "tooltipExtraInfoLabel": "Klik her"
 }
