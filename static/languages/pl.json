@@ -1,13 +1,13 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Gdzie znajdują się największe gospodarstwa rolne w UE?",
+  "subtitle": "W 2023 roku 3,76% gospodarstw rolnych w UE użytkowało co najmniej 100 hektarów gruntów rolnych. Najwyższy odsetek odnotowano w Luksemburgu i Francji, a najniższy w Grecji.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "UAA to skrót od „Utilised Agricultural Area” (wykorzystana powierzchnia rolna). Każdy procent oblicza się, dzieląc liczbę gospodarstw rolnych o powierzchni co najmniej 100 hektarów przez całkowitą liczbę gospodarstw w danym kraju. Uwzględniono gospodarstwa o powierzchni dokładnie 100 hektarów. Dane dla Malty nie są dostępne.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_MT": "Brak danych dla gospodarstw rolnych o powierzchni co najmniej 100 hektarów w 2023 r.",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "gospodarstw w tym kraju o powierzchni powyżej 100 ha użytków rolnych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
