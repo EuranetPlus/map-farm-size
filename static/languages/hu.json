@@ -1,13 +1,13 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hol vannak a legnagyobb gazdaságok az EU-ban?",
+  "subtitle": "2023-ban az uniós gazdaságok 3,76%-a használt legalább 100 hektár mezőgazdasági területet. Az arány Luxemburgban és Franciaországban volt a legmagasabb, míg Görögországban a legalacsonyabb.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az UAA a „hasznosított mezőgazdasági terület” rövidítése. Minden százalékos arányt úgy számítanak ki, hogy a legalább 100 hektárt használó gazdaságok számát elosztják az ugyanazon országban található gazdaságok teljes számával. A pontosan 100 hektárt használó gazdaságok is beleszámítanak. Máltára vonatkozóan nem áll rendelkezésre adat.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_MT": "A 2023-as adatok alapján nem áll rendelkezésre adat a legalább 100 hektáros gazdaságokról.",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "az országban található gazdaságok száma, amelyek több mint 100 hektárnyi mezőgazdasági területtel rendelkeznek",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
